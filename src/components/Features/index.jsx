@@ -39,7 +39,7 @@ const Features = () => {
   ];
 
   return (
-    <div className="max-w-7xl mx-auto mt-32 lg:px-0 px-6 items-center">
+    <div className="max-w-6xl mx-auto mt-32 lg:px-0 px-6 items-center">
       <div className="flex flex-col gap-y-5 items-center text-center">
         <header className="flex flex-col gap-y-1">
           <h5 className="text-[#F75C4E] uppercase font-bold tracking-minus">

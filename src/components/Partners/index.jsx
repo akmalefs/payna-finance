@@ -2,7 +2,7 @@ const Partner = () => {
   const imagesFileNames = ["apple", "adobe", "slack", "spotify", "google"];
 
   return (
-    <div className="max-w-7xl mx-auto mt-24 lg:px-0 px-6 ">
+    <div className="max-w-6xl mx-auto mt-24 lg:px-0 px-6 ">
       <div className="flex lg:flex-row flex-col  gap-y-8 justify-between lg:items-center items-start">
         <h5 className="text-navy tracking-minus font-semibold lg:w-2/12">
           Trusted by Global Companies

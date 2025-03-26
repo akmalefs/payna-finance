@@ -3,7 +3,7 @@ import heroImage from "../../../public/hero-image.png";
 
 const Hero = () => {
   return (
-    <div className="max-w-7xl mx-auto mt-24 lg:px-0 px-6">
+    <div className="max-w-6xl mx-auto mt-24 lg:px-0 px-6">
       <div className="flex justify-between items-center">
         <div className="flex flex-col gap-y-8">
           <header className="flex flex-col gap-y-5">

@@ -4,7 +4,7 @@ import Button from "../Button";
 const Navbar = () => {
   return (
     <nav className="bg-white py-6 lg:px-0 px-6">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-6xl mx-auto">
         <div className="flex justify-between items-center">
           <img src={paynaLogo} alt="Logo Payna" width={144} height={42} />
 

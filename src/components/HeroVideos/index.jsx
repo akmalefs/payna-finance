@@ -6,7 +6,7 @@ const HeroVideos = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className="max-w-7xl mx-auto my-24 lg:px-0 px-6">
+    <div className="max-w-6xl mx-auto my-24 lg:px-0 px-6">
       <div className="flex lg:flex-row flex-col gap-y-20 gap-x-32 items-center">
         <button onClick={() => setIsOpen(true)} className="focus:outline-none">
           <img
